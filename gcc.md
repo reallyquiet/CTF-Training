@@ -25,33 +25,18 @@
 ### Gdb调试过程
 
 1、程序经过预处理后，即进入编译阶段，进入编译阶段，首先声明编译：
-
 2、格式：gdb -o test test.c -g
-
 3、进入编译：gdb test
-
 4、显示需要编译调试的源程序：l(list)//list filename
-
 5、设置断点：b（break）行号
-
 6、查看设置的断点：info b
-
 7、运行调试程序：run
-
 8、跳到下一个断点：c（continue）
-
 9、单步运行的话使用：n（next）/s(step into)跳到函数体 //区别在与：next执行函数体，而step不执行函数体
-
 10、调试过程中查看某个变量的变化：print i （每次都要手动设置）//display i（设置一次一直尾随，直到用“undisplay 变量标号” 停止）
-
 11、退出当前的调试使用finish 跳出函数
-
 12、清楚断点 clear 行号
-
 13、Delete 断点信息序号// 删除所有断点或设置的要删除的断点
-
 14、退出调试 q
-
 15、b  num  if  i==20 设置断点的触发条件
-
 16、condition num i==50 改变断点的触发条件
