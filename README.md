@@ -11,4 +11,7 @@ Angr
 - https://docs.angr.io/
 
 ## PWN
+- http://security.cs.rpi.edu/courses/binexp-spring2015/
+- Fuzz By Number, Charlie Miller
+- Fuzzing: The SMB case, LAurent Gaffie
 - https://github.com/Gallopsled/pwntools-tutorial
