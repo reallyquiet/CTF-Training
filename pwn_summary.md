@@ -1,4 +1,4 @@
-# "Rather than watch a movie or read a novel, you would better to learn PWN."
+# "Rather than enjoy your spare time, you'd better to learn PWN."
 ## 一些不错的指导文章
 - https://github.com/CHYbeta/Software-Security-Learning
 
