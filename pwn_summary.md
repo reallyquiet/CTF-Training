@@ -1,5 +1,5 @@
 # "Rather than enjoy your spare time, you'd better to learn PWN."
-## 一些不错的指导文章
+## Guide
 - https://github.com/CHYbeta/Software-Security-Learning
 
 ## IDA
