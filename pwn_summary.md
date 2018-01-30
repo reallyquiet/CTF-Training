@@ -1,5 +1,6 @@
-# 一些不错的指导文章
-
+# "Rather than watch a movie or read a novel, you would better to learn PWN."
+## 一些不错的指导文章
+- https://github.com/CHYbeta/Software-Security-Learning
 
 ## IDA
 - 黑魔法的快捷键**F5**
