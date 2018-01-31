@@ -19,8 +19,8 @@ Angr
 - How to Heap
 
 ## Web
-- https://github.com/hanc00l/DirBrute
-- 
+- 御剑 https://github.com/hanc00l/DirBrute
+- 《HTTP权威指南》 https://github.com/woai30231/http
 
 ## Mics
 - http://blog.csdn.net/wangyi_lin/article/details/10920307
