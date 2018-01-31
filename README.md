@@ -15,3 +15,9 @@ Angr
 - Fuzz By Number, Charlie Miller
 - Fuzzing: The SMB case, LAurent Gaffie
 - https://github.com/Gallopsled/pwntools-tutorial
+- Dance in Heap
+- How to Heap
+
+## Web
+- https://github.com/hanc00l/DirBrute
+- 
