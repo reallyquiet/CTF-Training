@@ -5,10 +5,12 @@
 - http://www.qqxiuzi.cn/bianma/ROT5-13-18-47.php
 - http://www.practicalcryptography.com/ciphers/hill-cipher/
 
+
 ## Reversing
 Angr
 - https://github.com/angr/angr
 - https://docs.angr.io/
+
 
 ## PWN
 - http://security.cs.rpi.edu/courses/binexp-spring2015/
@@ -18,9 +20,18 @@ Angr
 - Dance in Heap
 - How to Heap
 
+
 ## Web
+### HTTP
 - 御剑 https://github.com/hanc00l/DirBrute
 - 《HTTP权威指南》 https://github.com/woai30231/http
+
+### PHP
+- https://github.com/bowu678/php_bugs
+
+### XSS
+- 
+
 
 ## Mics
 - http://blog.csdn.net/wangyi_lin/article/details/10920307
