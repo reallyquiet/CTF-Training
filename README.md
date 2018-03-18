@@ -19,7 +19,7 @@
 - https://github.com/Gallopsled/pwntools-tutorial
 - Dance in Heap
 - How2Heap
-  - http://www.360zhijia.com/360anquanke/299858.html
+  - https://www.anquanke.com/post/id/86808
   - https://github.com/shellphish/how2heap
 
 
