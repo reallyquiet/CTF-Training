@@ -18,7 +18,9 @@
 - Fuzzing: The SMB case, LAurent Gaffie
 - https://github.com/Gallopsled/pwntools-tutorial
 - Dance in Heap
-- How to Heap
+- How2Heap
+- - http://www.360zhijia.com/360anquanke/299858.html
+- - https://github.com/shellphish/how2heap
 
 
 ## Web
